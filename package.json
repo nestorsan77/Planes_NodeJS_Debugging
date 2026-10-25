@@ -21,7 +21,7 @@
     "jsdoc": "^4.0.2",
     "node-fetch": "^3.3.2",
     "supertest": "^6.3.4",
-    "webdriverio": "^8.32.2"
+    "webdriverio": "^10.1.0"
   },
   "devDependencies": {
     "eslint": "^8.56.0"
